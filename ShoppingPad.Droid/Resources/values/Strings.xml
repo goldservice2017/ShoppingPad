@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">ShoppingPad.Droid</string>
+    <string name="shopping_list_tab_label">Shopping List</string>
+    <string name="past_purchases_tab_label">Past Purchases</string>
+</resources>
